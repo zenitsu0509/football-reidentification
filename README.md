@@ -15,9 +15,7 @@ This project implements a football player re-identification and tracking system 
 ```text
 football-reidentification/
 ├── README.md                          # This file
-├── scoccer_reidentification.ipynb     # Main Jupyter notebook
-├── model/
-│   └── best.pt                        # Pre-trained YOLOv8 model (download separately)
+├── scoccer_reidentification.ipynb     # Main Jupyter notebook                       # Pre-trained YOLOv8 model (download separately)
 └── video/
     ├── input              
     ├── output       
